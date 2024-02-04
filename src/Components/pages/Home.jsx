@@ -44,6 +44,8 @@ export default function Home() {
                     <p>Platforms offers an Engaging and immersive Experience for both the creators and the audience.</p>
                 </div>
                 </div>
+
+                
             </div>
 
             <div className='bigbox_section'>
